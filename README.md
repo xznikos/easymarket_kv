@@ -59,7 +59,4 @@ Oferecer uma ferramenta simples e intuitiva para ajudar na organização de list
 Desenvolvido como exercício de **desenvolvimento desktop com Kivy**.  
 
 **Alunos:**  
-- Nome 1  
-- Nome 2  
-- Nome 3  
-- Nome 4  
+- Níkolas
